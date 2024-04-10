@@ -1,0 +1,14 @@
+/*home*/
+header {
+    background: wheat;
+    color: brown;
+}
+
+header h1 {
+    text-align: center;
+}
+ header ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
